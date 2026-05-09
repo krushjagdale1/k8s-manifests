@@ -9,7 +9,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/krushjagdale1.git
+    repoURL: https://github.com/krushjagdale1/k8s-manifests.git
     targetRevision: main
     path: .
 
